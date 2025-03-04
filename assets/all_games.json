@@ -1,0 +1,464 @@
+[
+    {
+        "name": "Teamfight Tactics",
+        "genre": "Auto Chess",
+        "category": "AutoBattler",
+        "link": "tft"
+    },
+    {
+        "name": "The Bazaar",
+        "genre": "Economy CCG",
+        "category": "AutoBattler",
+        "link": "the-bazaar"
+    },
+    {
+        "name": "Valorant",
+        "genre": "Tactical FPS",
+        "category": "FPS",
+        "link": "valorant"
+    },
+    {
+        "name": "CS2",
+        "genre": "Tactical FPS",
+        "category": "FPS",
+        "link": "cs2"
+    },
+    {
+        "name": "Call of Duty Series",
+        "genre": "Arcade FPS",
+        "category": "FPS",
+        "link": "call-of-duty"
+    },
+    {
+        "name": "Battlefield Series",
+        "genre": "Large-Scale Warfare",
+        "category": "FPS",
+        "link": "battlefield"
+    },
+    {
+        "name": "Halo Infinite",
+        "genre": "Sci-Fi Arena",
+        "category": "FPS",
+        "link": "halo-infinite"
+    },
+    {
+        "name": "Halo: Master Chief Collection",
+        "genre": "Sci-Fi Arena",
+        "category": "FPS",
+        "link": "halo-master-chief-collection"
+    },
+    {
+        "name": "Splitgate",
+        "genre": "Portal Combat",
+        "category": "FPS",
+        "link": "splitgate"
+    },
+    {
+        "name": "Titanfall 2",
+        "genre": "Mech Combat",
+        "category": "FPS",
+        "link": "titanfall-2"
+    },
+    {
+        "name": "Star Wars: Battlefront II",
+        "genre": "Hero Shooter",
+        "category": "FPS",
+        "link": "star-wars-battlefront-ii"
+    },
+    {
+        "name": "Escape from Tarkov",
+        "genre": "Extraction",
+        "category": "FPS",
+        "link": "escape-from-tarkov"
+    },
+    {
+        "name": "Delta Force",
+        "genre": "Tactical Ops",
+        "category": "FPS",
+        "link": "delta-force"
+    },
+    {
+        "name": "Destiny 2",
+        "genre": "Looter Shooter",
+        "category": "FPS",
+        "link": "destiny2"
+    },
+    {
+        "name": "Marathon",
+        "genre": "Extraction",
+        "category": "FPS",
+        "link": "marathon"
+    },
+    {
+        "name": "Borderlands Series",
+        "genre": "Looter Shooter",
+        "category": "FPS",
+        "link": "borderlands"
+    },
+    {
+        "name": "StarCraft 2",
+        "genre": "Sci-Fi RTS",
+        "category": "RTS",
+        "link": "starcraft2"
+    },
+    {
+        "name": "Stormgate",
+        "genre": "Next-Gen RTS",
+        "category": "RTS",
+        "link": "stormgate"
+    },
+    {
+        "name": "ZeroSpace",
+        "genre": "Innovative RTS",
+        "category": "RTS",
+        "link": "zerospace"
+    },
+    {
+        "name": "Age of Empires II",
+        "genre": "Classic RTS",
+        "category": "RTS",
+        "link": "aoe-2"
+    },
+    {
+        "name": "Age of Empires IV",
+        "genre": "RTS",
+        "category": "RTS",
+        "link": "aoe-4"
+    },
+    {
+        "name": "Tempest Rising",
+        "genre": "Classic-style RTS",
+        "category": "RTS",
+        "link": "tempest-rising"
+    },
+    {
+        "name": "Deadlock",
+        "genre": "MOBA",
+        "category": "MOBA",
+        "link": "deadlock"
+    },
+    {
+        "name": "Warhammer 40,000",
+        "genre": "Tactical Strategy",
+        "category": "Strategy",
+        "link": "warhammer-40k"
+    },
+    {
+        "name": "Clash of Clans",
+        "genre": "Mobile Strategy",
+        "category": "Strategy",
+        "link": "clash-of-clans"
+    },
+    {
+        "name": "Civilization VI/VII",
+        "genre": "4X Strategy",
+        "category": "Strategy",
+        "link": "civilization"
+    },
+    {
+        "name": "Chess",
+        "genre": "Classic Strategy",
+        "category": "Strategy",
+        "link": "chess"
+    },
+    {
+        "name": "Minecraft",
+        "genre": "Creative Survival",
+        "category": "Survival",
+        "link": "minecraft"
+    },
+    {
+        "name": "Palworld",
+        "genre": "Creature Survival",
+        "category": "Survival",
+        "link": "palworld"
+    },
+    {
+        "name": "No Man's Sky",
+        "genre": "Space Exploration",
+        "category": "Survival",
+        "link": "no-mans-sky"
+    },
+    {
+        "name": "Valheim",
+        "genre": "Viking Survival",
+        "category": "Survival",
+        "link": "valheim"
+    },
+    {
+        "name": "Terraria",
+        "genre": "2D Sandbox",
+        "category": "Survival",
+        "link": "terraria"
+    },
+    {
+        "name": "League of Legends",
+        "genre": "MOBA",
+        "category": "MOBA",
+        "link": "league-of-legends"
+    },
+    {
+        "name": "Stardew Valley",
+        "genre": "Farming Sim",
+        "category": "Simulation",
+        "link": "stardew-valley"
+    },
+    {
+        "name": "Factorio",
+        "genre": "Factory Sim",
+        "category": "Simulation",
+        "link": "factorio"
+    },
+    {
+        "name": "RimWorld",
+        "genre": "Colony Sim",
+        "category": "Simulation",
+        "link": "rimworld"
+    },
+    {
+        "name": "GTA Online",
+        "genre": "Action",
+        "category": "Action",
+        "link": "gta-online"
+    },
+    {
+        "name": "Sea of Thieves",
+        "genre": "Pirate Adventure",
+        "category": "Action",
+        "link": "sea-of-thieves"
+    },
+    {
+        "name": "Vampire Survivors",
+        "genre": "Bullet Hell",
+        "category": "Action",
+        "link": "vampire-survivors"
+    },
+    {
+        "name": "Warframe",
+        "genre": "Space Ninja",
+        "category": "Action",
+        "link": "warframe"
+    },
+    {
+        "name": "Tekken 8",
+        "genre": "3D Fighter",
+        "category": "Fighting",
+        "link": "tekken-8"
+    },
+    {
+        "name": "Guilty Gear -Strive-",
+        "genre": "Anime Fighter",
+        "category": "Fighting",
+        "link": "guilty-gear-strive"
+    },
+    {
+        "name": "Brawlhalla",
+        "genre": "Platform Fighter",
+        "category": "Fighting",
+        "link": "brawlhalla"
+    },
+    {
+        "name": "MultiVersus",
+        "genre": "Crossover Fighter",
+        "category": "Fighting",
+        "link": "multiversus"
+    },
+    {
+        "name": "Rivals of Aether 2",
+        "genre": "Pixel Fighter",
+        "category": "Fighting",
+        "link": "rivals-of-aether-2"
+    },
+    {
+        "name": "Super Smash Bros. Ultimate",
+        "genre": "Crossover Platform Fighter",
+        "category": "Fighting",
+        "link": "super-smash-bros-ultimate"
+    },
+    {
+        "name": "Mechabellum",
+        "genre": "Mech Autobattler",
+        "category": "AutoBattler",
+        "link": "mechabellum"
+    },
+    {
+        "name": "Super Auto Pets",
+        "genre": "Casual Autobattler",
+        "category": "AutoBattler",
+        "link": "super-auto-pets"
+    },
+    {
+        "name": "World of Warcraft",
+        "genre": "MMO",
+        "category": "MMO",
+        "link": "world-of-warcraft"
+    },
+    {
+        "name": "New World",
+        "genre": "Colonial MMO",
+        "category": "MMO",
+        "link": "new-world"
+    },
+    {
+        "name": "RuneScape",
+        "genre": "Classic MMO",
+        "category": "MMO",
+        "link": "runescape"
+    },
+    {
+        "name": "Cyberpunk 2077",
+        "genre": "Cyberpunk RPG",
+        "category": "RPG",
+        "link": "cyberpunk-2077"
+    },
+    {
+        "name": "Remnant II",
+        "genre": "Action RPG",
+        "category": "RPG",
+        "link": "remnant-ii"
+    },
+    {
+        "name": "Monster Hunter Series",
+        "genre": "Hunting RPG",
+        "category": "RPG",
+        "link": "monster-hunter-series"
+    },
+    {
+        "name": "The Elder Scrolls V: Skyrim",
+        "genre": "Open World RPG",
+        "category": "RPG",
+        "link": "skyrim"
+    },
+    {
+        "name": "Dungeons & Dragons",
+        "genre": "Tabletop RPG",
+        "category": "RPG",
+        "link": "dungeons-and-dragons"
+    },
+    {
+        "name": "Path of Exile 2",
+        "genre": "Dark ARPG",
+        "category": "RPG",
+        "link": "path-of-exile-2"
+    },
+    {
+        "name": "Baldur's Gate 3",
+        "genre": "CRPG",
+        "category": "RPG",
+        "link": "baldurs-gate-3"
+    },
+    {
+        "name": "Diablo Series",
+        "genre": "ARPG",
+        "category": "RPG",
+        "link": "diablo-series"
+    },
+    {
+        "name": "Hearthstone",
+        "genre": "Digital CCG",
+        "category": "CCG",
+        "link": "hearthstone"
+    },
+    {
+        "name": "Legends of Runeterra",
+        "genre": "Digital CCG",
+        "category": "CCG",
+        "link": "legends-of-runeterra"
+    },
+    {
+        "name": "Balatro",
+        "genre": "Poker Roguelike",
+        "category": "CCG",
+        "link": "balatro"
+    },
+    {
+        "name": "Clash Royale",
+        "genre": "Mobile CCG",
+        "category": "CCG",
+        "link": "clash-royale"
+    },
+    {
+        "name": "Pokémon Pocket",
+        "genre": "Digital CCG",
+        "category": "CCG",
+        "link": "pokemon-pocket"
+    },
+    {
+        "name": "Magic: The Gathering",
+        "genre": "TCG",
+        "category": "CCG",
+        "link": "magic-the-gathering"
+    },
+    {
+        "name": "Rainbow Six Siege",
+        "genre": "Tactical Shooter",
+        "category": "Tactical",
+        "link": "rainbow-six-siege"
+    },
+    {
+        "name": "Apex Legends",
+        "genre": "Hero BR",
+        "category": "BR",
+        "link": "apex-legends"
+    },
+    {
+        "name": "Fortnite",
+        "genre": "Building BR",
+        "category": "BR",
+        "link": "fortnite"
+    },
+    {
+        "name": "Rocket League",
+        "genre": "Vehicular Soccer",
+        "category": "Sports",
+        "link": "rocket-league"
+    },
+    {
+        "name": "Marvel Rivals",
+        "genre": "Hero Shooter",
+        "category": "Action",
+        "link": "marvel-rivals"
+    },
+    {
+        "name": "Overwatch 2",
+        "genre": "Hero Shooter",
+        "category": "FPS",
+        "link": "overwatch"
+    },
+    {
+        "name": "Marvel Snap",
+        "genre": "CCG",
+        "category": "CCG",
+        "link": "marvel-snap"
+    },
+    {
+        "name": "Age of Mythology: Retold",
+        "genre": "Mythology RTS",
+        "category": "RTS",
+        "link": "age-of-mythology-retold"
+    },
+    {
+        "name": "Dota 2",
+        "genre": "MOBA",
+        "category": "MOBA",
+        "link": "dota-2"
+    },
+    {
+        "name": "World of Warcraft",
+        "genre": "MMO",
+        "category": "MMO",
+        "link": "world-of-warcraft"
+    },
+    {
+        "name": "World of Warcraft Classic",
+        "genre": "Classic MMO",
+        "category": "MMO",
+        "link": "world-of-warcraft-classic"
+    },
+    {
+        "name": "Lost Ark",
+        "genre": "MMO",
+        "category": "MMO",
+        "link": "lost-ark"
+    }
+]
